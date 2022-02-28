@@ -1,5 +1,5 @@
 # cpuOverclockInfo
-A little script for tracking relevant CPU information for overclocking
+A little script for tracking relevant CPU information for overclocking.
 Tested on Linux Ubuntu 20.04.4 LTS and Ubuntu 16 LTS
 
 ########### Before first use ###########
