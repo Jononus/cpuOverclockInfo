@@ -2,7 +2,7 @@
 A little script for tracking relevant CPU information for overclocking.
 Tested on Linux Ubuntu 20.04.4 LTS and Ubuntu 16 LTS
 
-########### Prior to the first use ###########
+########### Prior to the first usage ###########
 Make sure lm-sensors is installed.
 If it is not: "sudo apt-get install lm-sensors"
 => After installing run "sudo sensors-detect" once (if you don't know what the questions mean, just type YES every time ;))
